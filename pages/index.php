@@ -8,9 +8,7 @@ require '../utile/formatage.php';
     <div class="container text-center">
         <div class="row">
             <div class="col-6">  
-                <div class="card" style="width: 200px;">
-                    <img src="../source/images/moi.PNG" class="card-img-top" style="width:200px;" alt="...">
-                </div>  
+                <img src="../source/images/moi.PNG" class="card-img-top border border-dark-subtle rounded-4" style="width:200px;" alt="...">
             </div>
             <div class="col-6">
                 <div class="card" style="width: 18rem;">
