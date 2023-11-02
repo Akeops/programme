@@ -50,11 +50,13 @@ body {
         100%{left:0px;}
 }
 
+/* PRESENTATION */
 
-/* CAROUSSEL */
-.perso_colorYellow { /* Couleur du titre des sections */
-    font-weight: bold;
+div.col-6 {
+    display: flex;
+    justify-content: center;
 }
+
 
 /* SECTION TEMOIGNAGE */
 
