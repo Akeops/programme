@@ -13,7 +13,7 @@ require '../utile/formatage.php';
             <div class="col-12 col-md-6">
                 <div class="card" style="width: 100%;">
                     <div class="card-body">
-                        <p class="card-text opacity-75" style="width:100%;">Développeur Full-Stack, du moins c'est mon objectig à terme. Je suis en ce moment étudiant à Efrei en deuxième année de bachelor à Bordeaux. J'ai ai repris emsétudes dns ce secteur parce que finalement je crois que je suis fait pour ça, développer. Je suis en ce moment même en train de développer ce portfolio mais j'espère que mes compétences grandiront pour me permettre de développer des choses plus complexes et aussi plus jolie. Mon but c'est de développer des projets qui fonctionnent bien mais aussi de les rendre beau visuellement grâce à des notions de UI/UX associés à du Javascript. </p>
+                        <p class="card-text opacity-75" style="width:100%;">Développeur Full-Stack, du moins c'est mon objectig à terme. Je suis en ce moment étudiant à Efrei en deuxième année de bachelor à Bordeaux. J'ai ai repris mes études dns ce secteur parce que finalement je crois que je suis fait pour ça, développer. Je suis en ce moment même en train de développer ce portfolio mais j'espère que mes compétences me permettront de développer des choses plus complexes et aussi plus jolie. Mon but c'est de développer des projets qui fonctionnent bien mais aussi de les rendre beau visuellement grâce à des notions de UI/UX associés à du Javascript. </p>
                     </div>
                 </div>          
             </div>

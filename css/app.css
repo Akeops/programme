@@ -57,18 +57,10 @@ div.col-6 {
     justify-content: center;
 }
 
+/* SECTION MES PROJETS */
 
-/* SECTION TEMOIGNAGE */
-
-#temoignages div.col-12 {
-    border: 1px;
-    border-radius: 10px;
-    margin: 5px 5rem 48px 4rem;
-    background-color: rgb(255,245,238);
-}
-
-#temoignages div img {
-    margin-top: 5px;
+div#competences.container{
+    background-color: blue;
 }
 
 /* Bouton télécharger */
